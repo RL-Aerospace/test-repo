@@ -1,2 +1,2 @@
 # test-template
-ID: AKASHA_ID_PLACEHOLDER
+ID: 01.01.01.01
