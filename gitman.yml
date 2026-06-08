@@ -1,6 +1,8 @@
----
-location: children
+location: "children"
 sources:
   - repo: "https://github.com/RL-Aerospace/test-child-repo.git"
-    name: test-child-repo
-    rev: main
+    name: "test-child-repo"
+    rev: "main"
+  - repo: "https://github.com/RL-Aerospace/test-child-repo.git"
+    name: "test-child-repo"
+    rev: "main"
