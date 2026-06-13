@@ -1,1 +1,5 @@
 location: "children"
+sources:
+  - repo: "https://github.com/RL-Aerospace/cli-test-node.git"
+    name: "cli-test-node"
+    rev: "main"
