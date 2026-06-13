@@ -3,3 +3,6 @@ sources:
   - repo: "https://github.com/RL-Aerospace/cli-test-node.git"
     name: "cli-test-node"
     rev: "main"
+  - repo: "https://github.com/RL-Aerospace/second-test-node.git"
+    name: "second-test-node"
+    rev: "main"
