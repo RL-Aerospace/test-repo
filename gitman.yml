@@ -6,3 +6,6 @@ sources:
   - repo: "https://github.com/RL-Aerospace/second-test-node.git"
     name: "second-test-node"
     rev: "main"
+  - repo: "https://github.com/RL-Aerospace/demo-akasha.git"
+    name: "demo-akasha"
+    rev: "main"
